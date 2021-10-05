@@ -1,0 +1,31 @@
+Code,Description
+10-35,Confidential information or open window
+10-60,Squad in vicinity
+10-11,Identify frequency / Dispatching too fast
+10-100,Misdemeanor warrant / Out using restroom
+10-10,Negative / Fight in progress
+10-99,Cardiac arrest / Officer held hostage
+10-42,End duty
+99,Reckless operation
+10-80,Pursuit in progress
+10-33,"Emergency, all units stand by"
+10-7,Out of service (completely)
+Code 77,Possible ambush - use caution
+10-45,Condition of patient
+Code 40,Serious case (IV started)
+DOA,Dead on arrival
+10-55,Intoxicated driver
+999,Urgent help needed / Officer down
+10-85,Arrival delay due to [cause]
+10-8,In service
+10-63,Subject positive / Prepare to copy
+10-38,Traffic stop
+Code 33,Clear radio channel - emergency traffic only
+21,Complaint
+10-41,Begin duty
+10-12,Standby / Visitor(s) present
+10-50,Officer welfare check / under influence of drugs
+10-32,Person with gun
+10-0,Use caution
+20,Auto accident
+RP,Reporting party
